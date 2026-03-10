@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36705.20 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "řetezovy_graf", "řetezovy_graf\řetezovy_graf.csproj", "{08A08D22-4A29-4796-8E71-4568036ADFA8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{08A08D22-4A29-4796-8E71-4568036ADFA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08A08D22-4A29-4796-8E71-4568036ADFA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08A08D22-4A29-4796-8E71-4568036ADFA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08A08D22-4A29-4796-8E71-4568036ADFA8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EF106B40-3162-45C1-816D-B1414D6CC9B7}
+	EndGlobalSection
+EndGlobal
