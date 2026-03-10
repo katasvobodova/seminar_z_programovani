@@ -38,11 +38,12 @@ namespace MergeSort
                 for (int i = 0; i < prostřední_prvek; i++)
                     levá[i] = array[i];
                 int[] pravá = new int[array.Length - prostřední_prvek];
+                /*
                 for (int i = prostřední_prvek; i < array.Length; i++)
                     right[i - prostřední_prvek] = array[i];
                 MergeSort(levá); // rekurzivni zavolani na obe nova pole
                 MergeSort(pravá);
-                Merge(array, levá, pravá);
+                Merge(array, levá, pravá);*/
             }
         }
 
